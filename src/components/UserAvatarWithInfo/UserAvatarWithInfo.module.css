@@ -1,0 +1,15 @@
+.container{
+    padding: 16px 16px;
+    display: flex;
+    align-items: center;
+    flex-direction:row;
+    font-family: "poppins";
+    width:100%,
+}
+.infoContainer{
+    display:flex;
+        margin:0px 16px;
+        flex-direction:column;
+        align-items:start;
+        height:fit-content;
+}

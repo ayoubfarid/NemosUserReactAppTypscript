@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  margin: 0px 16px;
+  flex-direction: column;
+  font-family: "poppins";
+  align-items: "start";
+  height: "fit-content";
+}
+
