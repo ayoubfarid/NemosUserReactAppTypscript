@@ -1,8 +1,8 @@
 
-.buttton{
+.button{
 
- color:#333F62;
-  border-radius: 20px;
-  border: 0.5px solid #333F62;
-  text-transform: capitalize;
+ color:#333F62 !important; 
+  border-radius: 20px !important;
+  border: 0.5px solid #333F62 !important;
+  text-transform: capitalize !important;
 }

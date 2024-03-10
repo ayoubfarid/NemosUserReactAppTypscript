@@ -1,6 +1,6 @@
 
 import { Button } from "@mui/material";
-import style from './ButtonSecondary.module.css';
+import styles from './ButtonSecondary.module.css';
 interface ButtonSecondaryProps{
     title:string;
     onClick:()=>void;
@@ -9,7 +9,7 @@ interface ButtonSecondaryProps{
 
 const ButtonSecondary:React.FC<ButtonSecondaryProps> = ({title,onClick}:ButtonSecondaryProps)=>{
     return (
-        <Button variant="outlined" onClick={onClick} className={style.button}>
+        <Button variant="outlined" onClick={onClick} className={styles.button}>
         {title}
       </Button>
     );

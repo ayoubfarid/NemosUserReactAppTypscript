@@ -1,6 +1,6 @@
 
 .buttton{
-    border-radius: 20px;
-    background-color:#333F62;
-    text-transform:capitalize 
+    border-radius: 20px !important;
+    background-color:#333F62!important;
+    text-transform:capitalize !important;
 }
